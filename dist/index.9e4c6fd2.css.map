@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"mappings":"AAAA","sources":["index.css"],"sourcesContent":["#heading{\r\n    color: red;\r\n}\r\n\r\n/*\r\n how is the josh\r\n*/\r\n\r\n.head{\r\n    color: red;\r\n}"],"names":[],"version":3,"file":"index.9e4c6fd2.css.map","sourceRoot":"/__parcel_source_root/"}
+=======
+{"mappings":"AAAA","sources":["index.css"],"sourcesContent":["#heading{\r\n    color: red;\r\n}\r\n\r\n/*\r\n how is the josh\r\n*/"],"names":[],"version":3,"file":"index.9e4c6fd2.css.map","sourceRoot":"/__parcel_source_root/"}
+>>>>>>> 7ff19684936b09ae27a617b9d103f719f0874f10
